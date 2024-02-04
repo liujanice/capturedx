@@ -17,4 +17,7 @@ struct CaptureDxApp: App {
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
+    
+    
+    
 }

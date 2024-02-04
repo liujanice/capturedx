@@ -1,6 +1,6 @@
 //
 //  Persistence.swift
-//  CaptureDx
+//  EmojiLover
 //
 //  Created by Janice Liu on 2/2/24.
 //
@@ -28,10 +28,10 @@ struct PersistenceController {
         return result
     }()
 
-    let container: NSPersistentCloudKitContainer
+    let container: NSPersistentContainer
 
     init(inMemory: Bool = false) {
-        container = NSPersistentCloudKitContainer(name: "CaptureDx")
+        container = NSPersistentContainer(name: "EmojiLover")
         if inMemory {
             container.persistentStoreDescriptions.first!.url = URL(fileURLWithPath: "/dev/null")
         }

@@ -7,24 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3052D8A2B6D9BBA00F28400 /* Patient #1 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D892B6D9BBA00F28400 /* Patient #1 */; };
-		D3052D8B2B6D9BBA00F28400 /* Patient #1 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D892B6D9BBA00F28400 /* Patient #1 */; };
-		D3052D8C2B6D9BBA00F28400 /* Patient #1 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D892B6D9BBA00F28400 /* Patient #1 */; };
-		D3052D8F2B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D8E2B6D9C5000F28400 /* DoeJ_CAR.mp4 */; };
-		D3052D902B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D8E2B6D9C5000F28400 /* DoeJ_CAR.mp4 */; };
-		D3052D912B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D8E2B6D9C5000F28400 /* DoeJ_CAR.mp4 */; };
-		D3052D932B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D922B6D9C5400F28400 /* DoeJ_LUQ.mp4 */; };
-		D3052D942B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D922B6D9C5400F28400 /* DoeJ_LUQ.mp4 */; };
-		D3052D952B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D922B6D9C5400F28400 /* DoeJ_LUQ.mp4 */; };
-		D3052D972B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D962B6D9C5D00F28400 /* DoeJ_PUL.mp4 */; };
-		D3052D982B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D962B6D9C5D00F28400 /* DoeJ_PUL.mp4 */; };
-		D3052D992B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D962B6D9C5D00F28400 /* DoeJ_PUL.mp4 */; };
-		D3052D9B2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9A2B6D9C6600F28400 /* DoeJ_RUQ.mp4 */; };
-		D3052D9C2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9A2B6D9C6600F28400 /* DoeJ_RUQ.mp4 */; };
-		D3052D9D2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9A2B6D9C6600F28400 /* DoeJ_RUQ.mp4 */; };
-		D3052D9F2B6D9C6D00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9E2B6D9C6D00F28400 /* Example.Mp4 */; };
-		D3052DA02B6D9C6D00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9E2B6D9C6D00F28400 /* Example.Mp4 */; };
-		D3052DA12B6D9C6D00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052D9E2B6D9C6D00F28400 /* Example.Mp4 */; };
 		D3052DA32B6D9DFC00F28400 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DA22B6D9DFC00F28400 /* ViewController.swift */; };
 		D3052DA42B6D9DFC00F28400 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DA22B6D9DFC00F28400 /* ViewController.swift */; };
 		D3052DA52B6D9DFC00F28400 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DA22B6D9DFC00F28400 /* ViewController.swift */; };
@@ -34,18 +16,25 @@
 		D3052DAF2B6D9E8800F28400 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3052DAE2B6D9E8800F28400 /* Storyboard.storyboard */; };
 		D3052DB02B6D9E8800F28400 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3052DAE2B6D9E8800F28400 /* Storyboard.storyboard */; };
 		D3052DB12B6D9E8800F28400 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3052DAE2B6D9E8800F28400 /* Storyboard.storyboard */; };
-		D3052DB32B6EBDCB00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB22B6EBDCB00F28400 /* Example.Mp4 */; };
-		D3052DB42B6EBDCB00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB22B6EBDCB00F28400 /* Example.Mp4 */; };
-		D3052DB52B6EBDCB00F28400 /* Example.Mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB22B6EBDCB00F28400 /* Example.Mp4 */; };
-		D3052DB72B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB62B6EBDD100F28400 /* DoeJ_RUQ.mp4 */; };
-		D3052DB82B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB62B6EBDD100F28400 /* DoeJ_RUQ.mp4 */; };
-		D3052DB92B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3052DB62B6EBDD100F28400 /* DoeJ_RUQ.mp4 */; };
 		D3052DF82B70150800F28400 /* UIimage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DF72B70150800F28400 /* UIimage+Extension.swift */; };
 		D3052DF92B70150800F28400 /* UIimage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DF72B70150800F28400 /* UIimage+Extension.swift */; };
 		D3052DFA2B70150800F28400 /* UIimage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DF72B70150800F28400 /* UIimage+Extension.swift */; };
 		D3052DFC2B70233200F28400 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DFB2B70233200F28400 /* Persistence.swift */; };
 		D3052DFD2B70233200F28400 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DFB2B70233200F28400 /* Persistence.swift */; };
 		D3052DFE2B70233200F28400 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3052DFB2B70233200F28400 /* Persistence.swift */; };
+		D3052E042B7029F400F28400 /* PUL_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E032B7029F400F28400 /* PUL_frames */; };
+		D3052E052B7029F400F28400 /* PUL_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E032B7029F400F28400 /* PUL_frames */; };
+		D3052E062B7029F400F28400 /* PUL_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E032B7029F400F28400 /* PUL_frames */; };
+		D3052E082B7029FC00F28400 /* LUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E072B7029FC00F28400 /* LUQ_frames */; };
+		D3052E092B7029FC00F28400 /* LUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E072B7029FC00F28400 /* LUQ_frames */; };
+		D3052E0A2B7029FC00F28400 /* LUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E072B7029FC00F28400 /* LUQ_frames */; };
+		D3052E0C2B702A0000F28400 /* CAR_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0B2B702A0000F28400 /* CAR_frames */; };
+		D3052E0D2B702A0000F28400 /* CAR_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0B2B702A0000F28400 /* CAR_frames */; };
+		D3052E0E2B702A0000F28400 /* CAR_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0B2B702A0000F28400 /* CAR_frames */; };
+		D3052E102B702A0800F28400 /* RUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0F2B702A0800F28400 /* RUQ_frames */; };
+		D3052E112B702A0800F28400 /* RUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0F2B702A0800F28400 /* RUQ_frames */; };
+		D3052E122B702A0800F28400 /* RUQ_frames in Resources */ = {isa = PBXBuildFile; fileRef = D3052E0F2B702A0800F28400 /* RUQ_frames */; };
+		D3052E1A2B70674C00F28400 /* miniclass_Appathon.mlmodel in Resources */ = {isa = PBXBuildFile; fileRef = D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */; };
 		D34A3D922B6D918F008F9C85 /* CaptureDxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34A3D912B6D918F008F9C85 /* CaptureDxApp.swift */; };
 		D34A3D972B6D918F008F9C85 /* CaptureDx.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D34A3D952B6D918F008F9C85 /* CaptureDx.xcdatamodeld */; };
 		D34A3D992B6D918F008F9C85 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34A3D982B6D918F008F9C85 /* ContentView.swift */; };
@@ -57,12 +46,6 @@
 		D34A3DC42B6D9386008F9C85 /* miniclass_Appathon.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */; };
 		D34A3DC52B6D9386008F9C85 /* miniclass_Appathon.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */; };
 		D34A3DC62B6D9386008F9C85 /* miniclass_Appathon.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */; };
-		D34A3DD02B6D97A7008F9C85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; };
-		D34A3DD12B6D97A7008F9C85 /* UIKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		D34A3DD32B6D97B0008F9C85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; };
-		D34A3DD42B6D97B0008F9C85 /* UIKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		D34A3DD62B6D97B5008F9C85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; };
-		D34A3DD72B6D97B5008F9C85 /* UIKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */; platformFilter = ios; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,7 +72,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				D34A3DD12B6D97A7008F9C85 /* UIKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -100,7 +82,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				D34A3DD42B6D97B0008F9C85 /* UIKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -111,7 +92,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				D34A3DD72B6D97B5008F9C85 /* UIKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -119,19 +99,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D3052D892B6D9BBA00F28400 /* Patient #1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Patient #1"; path = "../Downloads/Patient #1"; sourceTree = "<group>"; };
-		D3052D8E2B6D9C5000F28400 /* DoeJ_CAR.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = DoeJ_CAR.mp4; path = "../../Downloads/Patient #1/DoeJ_CAR.mp4"; sourceTree = "<group>"; };
-		D3052D922B6D9C5400F28400 /* DoeJ_LUQ.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = DoeJ_LUQ.mp4; path = "../../Downloads/Patient #1/DoeJ_LUQ.mp4"; sourceTree = "<group>"; };
-		D3052D962B6D9C5D00F28400 /* DoeJ_PUL.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = DoeJ_PUL.mp4; path = "../../Downloads/Patient #1/DoeJ_PUL.mp4"; sourceTree = "<group>"; };
-		D3052D9A2B6D9C6600F28400 /* DoeJ_RUQ.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = DoeJ_RUQ.mp4; path = "../../Downloads/Patient #1/DoeJ_RUQ.mp4"; sourceTree = "<group>"; };
-		D3052D9E2B6D9C6D00F28400 /* Example.Mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = Example.Mp4; path = "../../Downloads/Patient #1/Example.Mp4"; sourceTree = "<group>"; };
 		D3052DA22B6D9DFC00F28400 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D3052DAA2B6D9E7D00F28400 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		D3052DAE2B6D9E8800F28400 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
-		D3052DB22B6EBDCB00F28400 /* Example.Mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = Example.Mp4; path = "../../Downloads/Patient #1/Example.Mp4"; sourceTree = "<group>"; };
-		D3052DB62B6EBDD100F28400 /* DoeJ_RUQ.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = DoeJ_RUQ.mp4; path = "../../Downloads/Patient #1/DoeJ_RUQ.mp4"; sourceTree = "<group>"; };
 		D3052DF72B70150800F28400 /* UIimage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIimage+Extension.swift"; sourceTree = "<group>"; };
 		D3052DFB2B70233200F28400 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		D3052E032B7029F400F28400 /* PUL_frames */ = {isa = PBXFileReference; lastKnownFileType = folder; path = PUL_frames; sourceTree = "<group>"; };
+		D3052E072B7029FC00F28400 /* LUQ_frames */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LUQ_frames; sourceTree = "<group>"; };
+		D3052E0B2B702A0000F28400 /* CAR_frames */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CAR_frames; sourceTree = "<group>"; };
+		D3052E0F2B702A0800F28400 /* RUQ_frames */ = {isa = PBXFileReference; lastKnownFileType = folder; path = RUQ_frames; sourceTree = "<group>"; };
+		D3052E142B70599300F28400 /* DoeJ_PUL.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = DoeJ_PUL.mp4; sourceTree = "<group>"; };
+		D3052E152B70599300F28400 /* Example.Mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Example.Mp4; sourceTree = "<group>"; };
+		D3052E162B70599300F28400 /* DoeJ_CAR.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = DoeJ_CAR.mp4; sourceTree = "<group>"; };
+		D3052E172B70599300F28400 /* DoeJ_LUQ.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = DoeJ_LUQ.mp4; sourceTree = "<group>"; };
+		D3052E182B70599300F28400 /* DoeJ_RUQ.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = DoeJ_RUQ.mp4; sourceTree = "<group>"; };
 		D34A3D8E2B6D918F008F9C85 /* CaptureDx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaptureDx.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D34A3D912B6D918F008F9C85 /* CaptureDxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureDxApp.swift; sourceTree = "<group>"; };
 		D34A3D962B6D918F008F9C85 /* CaptureDx.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CaptureDx.xcdatamodel; sourceTree = "<group>"; };
@@ -146,7 +127,6 @@
 		D34A3DB32B6D9191008F9C85 /* CaptureDxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureDxUITests.swift; sourceTree = "<group>"; };
 		D34A3DB52B6D9191008F9C85 /* CaptureDxUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureDxUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = miniclass_Appathon.mlmodel; sourceTree = "<group>"; };
-		D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS17.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,7 +134,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D34A3DD62B6D97B5008F9C85 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,7 +141,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D34A3DD32B6D97B0008F9C85 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,30 +148,32 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D34A3DD02B6D97A7008F9C85 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D3052D8D2B6D9C4400F28400 /* patient_1 */ = {
+		D3052E132B70599300F28400 /* Patient_Videos */ = {
 			isa = PBXGroup;
 			children = (
-				D3052D9A2B6D9C6600F28400 /* DoeJ_RUQ.mp4 */,
-				D3052D922B6D9C5400F28400 /* DoeJ_LUQ.mp4 */,
-				D3052D962B6D9C5D00F28400 /* DoeJ_PUL.mp4 */,
-				D3052D9E2B6D9C6D00F28400 /* Example.Mp4 */,
-				D3052D8E2B6D9C5000F28400 /* DoeJ_CAR.mp4 */,
+				D3052E142B70599300F28400 /* DoeJ_PUL.mp4 */,
+				D3052E152B70599300F28400 /* Example.Mp4 */,
+				D3052E162B70599300F28400 /* DoeJ_CAR.mp4 */,
+				D3052E172B70599300F28400 /* DoeJ_LUQ.mp4 */,
+				D3052E182B70599300F28400 /* DoeJ_RUQ.mp4 */,
 			);
-			path = patient_1;
+			path = Patient_Videos;
 			sourceTree = "<group>";
 		};
 		D34A3D852B6D918F008F9C85 = {
 			isa = PBXGroup;
 			children = (
-				D3052D8D2B6D9C4400F28400 /* patient_1 */,
-				D3052D892B6D9BBA00F28400 /* Patient #1 */,
+				D3052E132B70599300F28400 /* Patient_Videos */,
+				D3052E0F2B702A0800F28400 /* RUQ_frames */,
+				D3052E0B2B702A0000F28400 /* CAR_frames */,
+				D3052E072B7029FC00F28400 /* LUQ_frames */,
+				D3052E032B7029F400F28400 /* PUL_frames */,
 				D34A3D902B6D918F008F9C85 /* CaptureDx */,
 				D34A3DA82B6D9191008F9C85 /* CaptureDxTests */,
 				D34A3DB22B6D9191008F9C85 /* CaptureDxUITests */,
@@ -220,8 +200,6 @@
 				D3052DFB2B70233200F28400 /* Persistence.swift */,
 				D34A3DC32B6D9386008F9C85 /* miniclass_Appathon.mlmodel */,
 				D34A3D9A2B6D9191008F9C85 /* Assets.xcassets */,
-				D3052DB62B6EBDD100F28400 /* DoeJ_RUQ.mp4 */,
-				D3052DB22B6EBDCB00F28400 /* Example.Mp4 */,
 				D34A3D9C2B6D9191008F9C85 /* CaptureDx.entitlements */,
 				D34A3DA02B6D9191008F9C85 /* Info.plist */,
 				D34A3D952B6D918F008F9C85 /* CaptureDx.xcdatamodeld */,
@@ -262,7 +240,6 @@
 		D34A3DCB2B6D96E0008F9C85 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D34A3DCC2B6D96E0008F9C85 /* UIKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -374,16 +351,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3052E042B7029F400F28400 /* PUL_frames in Resources */,
+				D3052E102B702A0800F28400 /* RUQ_frames in Resources */,
 				D34A3D9F2B6D9191008F9C85 /* Preview Assets.xcassets in Resources */,
 				D34A3D9B2B6D9191008F9C85 /* Assets.xcassets in Resources */,
-				D3052DB32B6EBDCB00F28400 /* Example.Mp4 in Resources */,
-				D3052D9B2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052D8F2B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */,
-				D3052D932B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */,
-				D3052D8A2B6D9BBA00F28400 /* Patient #1 in Resources */,
-				D3052DB72B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052D9F2B6D9C6D00F28400 /* Example.Mp4 in Resources */,
-				D3052D972B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */,
+				D3052E0C2B702A0000F28400 /* CAR_frames in Resources */,
+				D3052E082B7029FC00F28400 /* LUQ_frames in Resources */,
 				D3052DAF2B6D9E8800F28400 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -392,15 +365,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3052DA02B6D9C6D00F28400 /* Example.Mp4 in Resources */,
-				D3052D902B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */,
-				D3052DB42B6EBDCB00F28400 /* Example.Mp4 in Resources */,
-				D3052D982B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */,
-				D3052D8B2B6D9BBA00F28400 /* Patient #1 in Resources */,
+				D3052E1A2B70674C00F28400 /* miniclass_Appathon.mlmodel in Resources */,
+				D3052E112B702A0800F28400 /* RUQ_frames in Resources */,
+				D3052E052B7029F400F28400 /* PUL_frames in Resources */,
+				D3052E0D2B702A0000F28400 /* CAR_frames in Resources */,
+				D3052E092B7029FC00F28400 /* LUQ_frames in Resources */,
 				D3052DB02B6D9E8800F28400 /* Storyboard.storyboard in Resources */,
-				D3052D9C2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052DB82B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052D942B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,15 +378,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3052DA12B6D9C6D00F28400 /* Example.Mp4 in Resources */,
-				D3052D912B6D9C5000F28400 /* DoeJ_CAR.mp4 in Resources */,
-				D3052DB52B6EBDCB00F28400 /* Example.Mp4 in Resources */,
-				D3052D992B6D9C5D00F28400 /* DoeJ_PUL.mp4 in Resources */,
-				D3052D8C2B6D9BBA00F28400 /* Patient #1 in Resources */,
+				D3052E122B702A0800F28400 /* RUQ_frames in Resources */,
+				D3052E062B7029F400F28400 /* PUL_frames in Resources */,
+				D3052E0E2B702A0000F28400 /* CAR_frames in Resources */,
+				D3052E0A2B7029FC00F28400 /* LUQ_frames in Resources */,
 				D3052DB12B6D9E8800F28400 /* Storyboard.storyboard in Resources */,
-				D3052D9D2B6D9C6600F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052DB92B6EBDD100F28400 /* DoeJ_RUQ.mp4 in Resources */,
-				D3052D952B6D9C5400F28400 /* DoeJ_LUQ.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -619,7 +585,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.2;
@@ -627,7 +593,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.liujanice.CaptureDx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -658,7 +625,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.2;
@@ -666,7 +633,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.liujanice.CaptureDx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -687,7 +655,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Vision-Core-ML.CaptureDxTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -709,7 +678,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Vision-Core-ML.CaptureDxTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -730,7 +700,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Vision-Core-ML.CaptureDxUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -751,7 +722,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Vision-Core-ML.CaptureDxUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

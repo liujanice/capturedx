@@ -18,6 +18,36 @@ import CoreFoundation
 struct ContentView: View {
     
     
+   /*
+    let movieURL = Bundle.module.url(forResource: "Example", withExtension: "mov")!
+    let model = try! await miniclass_Appathon(configuration: MLModelConfiguration())
+
+    let asset = AVAsset(url: movieURL)
+    let assetTrack = try! await asset.loadTracks(withMediaType: .video).first!
+    let assetReader = try! AVAssetReader(asset: asset)
+
+    let outputSettings: [String: Any] = [
+        String(kCVPixelBufferPixelFormatTypeKey): kCVPixelFormatType_32BGRA,
+        String(kCVPixelBufferWidthKey): 224,
+        String(kCVPixelBufferHeightKey): 224,/// I believe these are meant to be 360px
+    ]
+    let assetReaderTrack = AVAssetReaderTrackOutput(track: assetTrack, outputSettings: outputSettings)
+
+    func assetReader;.add(assetReaderTrack)
+    assetReader.startReading()
+
+    while; let sampleBuffer = assetReaderTrack.copyNextSampleBuffer() {
+        guard let pixelBuffer = CMSampleBufferGetImageBuffer(sampleBuffer) else {
+            continue
+        }
+
+     //   let prediction = try! model.prediction(image: pixelBuffer) /// Modify this to be a VnCoreML request https://developer.apple.com/documentation/vision/vncoremlrequest
+        let frameTime = String(format: "% 4.2f", CMSampleBufferGetPresentationTimeStamp(sampleBuffer).seconds)
+        print("\(frameTime) seconds: \(prediction.classLabel)")
+    }
+        
+       */
+        
     @State var currIdx: Int = 0
     @State var classificationLabel: String = ""
     

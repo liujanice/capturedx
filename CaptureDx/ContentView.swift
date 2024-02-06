@@ -56,7 +56,7 @@ struct ContentView: View {
     //try VNCoreMLModel(for: Road_Sign_Object_Detector_1().model)
     
     
-    
+
     //convert png to UIimage
     
     //copy the images into the app bundle, if you require the folder to be copied to the app bundle per the code below then please use the follow StackOverflow question to set it up correctly.
